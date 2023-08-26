@@ -1,11 +1,10 @@
 <h1 align="center">Hi , I'm Zain UL Abdin 👋</h1>
 <p align="center">
-  <img alt="Mastering art of Data Science" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+  <img alt="Mastering art of Data Science" src="https://media.giphy.com/media/7c8QeB0VMddFOuu4iR/giphy.gif">
 </p>
 
-<img align="right" alt="coding" width=350px src="https://media.giphy.com/media/7c8QeB0VMddFOuu4iR/giphy.gif" >
+<img align="right" alt="coding" width=350px src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" >
 <br>
-
 # Python
 # 💫 About Me:
 🔭 I’m currently working as a Business Analyst<br>👯 I’m looking to collaborate on python projects<br>🤝 I’m looking for help with data science and python language<br>🌱 I’m currently learning python and data science<br>💬 Ask me about anything related to data science<br>⚡ To what heights can I not rise
