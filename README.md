@@ -4,7 +4,7 @@
 <br>
 💫 About Me:
 <br>
-🔭 I’m currently working as a Business Analyst<br>👯 I’m looking to collaborate on technical project management<br>🌱 I’m currently learning CSM and PMP<br>💬 Ask me about anything related to Business Analysis and Project Management<br>⚡ To what heights can I not rise
+🔭 I’m currently working as a Business Analyst<br>👯 I’m looking to collaborate on technical project management<br>🌱 I’m currently learning CSM and PMP<br>💬 Ask me about Business Analysis and Project Management<br>⚡ To what heights can I not rise
 
 
 ## 🌐 Socials:
