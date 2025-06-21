@@ -4,7 +4,7 @@
 <br>
 💫 About Me:
 <br>
-🔭 I’m currently working as a Technical Business Analyst | Data Analyst | Project Manager <br>👯 I’m looking to collaborate on Data Science Projects<br>🌱 I’m currently learning ML/AI/Datascience<br>💬 Ask me about Business Analysis, Project Management and Data Science<br>⚡ To what heights can I not rise
+🔭 I’m currently working as a Technical Business Analyst | Data Scientist | Product Manager <br>👯 I’m looking to collaborate on Data Science Projects<br>🌱 I’m currently learning ML/AI/Datascience<br>💬 Ask me about Business Analysis, Product Management and Data Science<br>⚡ To what heights can I not rise
 
 
 ## 🌐 Socials:
